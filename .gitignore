@@ -34,4 +34,4 @@ yarn-error.log*
 .idea/
 
 # Lock files (optional - some prefer to commit these)
-package-lock.json
+# package-lock.json
