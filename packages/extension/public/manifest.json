@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "DatePlanner",
+  "version": "1.0.0",
+  "description": "An AI agent that plans dates.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
