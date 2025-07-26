@@ -1,0 +1,7 @@
+{
+  "name": "dateplanner",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
